@@ -1,4 +1,0 @@
-# Patches for Item Visibility App
-# Format: module_name.path.to.patch_file
-# Example: item_visibility.patches.v1_0.update_item_fields
-
